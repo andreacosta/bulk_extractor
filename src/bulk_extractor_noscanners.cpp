@@ -82,6 +82,8 @@ scanner_t *scanners_builtin[] = {
     scan_xor,
     scan_sqlite,
     scan_facebook,
+    scan_btckey,
+    scan_btcaddr,
 // these are in the old_scanners directory. They never worked well:
     // scan_extx,  // not ready for prime time
     // scan_httpheader,

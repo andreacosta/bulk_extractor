@@ -218,6 +218,8 @@ extern "C" scanner_t scan_gps_lg;
 extern "C" scanner_t scan_lightgrep;
 #endif
 extern "C" scanner_t scan_facebook;
+extern "C" scanner_t scan_btcaddr;
+extern "C" scanner_t scan_btckey;
 extern "C" scanner_t scan_pdf;
 extern "C" scanner_t scan_msxml;
 extern "C" scanner_t scan_winlnk;

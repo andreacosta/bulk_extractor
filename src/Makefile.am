@@ -65,6 +65,8 @@ bulk_scanners = \
 	scan_net.cpp \
 	scan_outlook.cpp \
 	scan_facebook.cpp \
+	scan_btckey.cpp \
+	scan_btcaddr.cpp \
 	scan_pdf.cpp \
 	scan_msxml.cpp \
 	scan_rar.cpp \
